@@ -3,9 +3,13 @@
     To Successfully use this texting bot, you MUST change:
 
 Line : Phone Number of person you are sending text to
+
 Line : Message
+
 Line : Phone Provider of the Reciever
+
 Line : You must change this to your Email and Password
+
 
 
 Note** You must activate IMAP on your google account and Allow your google account to have Less secure access(I reccomend not using your primary email)
