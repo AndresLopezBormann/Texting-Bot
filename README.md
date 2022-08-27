@@ -1,8 +1,10 @@
-# Texting Bot
+# Texting Bot - No longer working as of May 30, 2022,
+Source: https://support.google.com/accounts/answer/6010255
+<br /> <br /> <br />
 ****To create this program, I was following a youtube tutorial <br />
 ****this link to the tutorial is: <br />
 
- <br /> <br />
+ <br />
 With This project I was Learning <br />
     -I was learning more python to prepare me for my EECS 268 course at KU because I took the prerequisite in c++ <br />
     -How I can send Emails with my code as text messages using googles smtp server <br />
